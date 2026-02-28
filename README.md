@@ -1125,6 +1125,7 @@ Components and native modules.
 * [react-native-mongoose ★17](https://github.com/remobile/react-native-mongoose) - A AsyncStorage based mongoose like storage for react-native
 * [react-native-leveldown](https://github.com/andymatuschak/react-native-leveldown) - Native LevelDB bindings for React Native
 * [typed-async-storage](https://github.com/artxty/typed-async-storage) - A wrapper for creating a schema for AsyncStorage and validation using React prop-types.
+* [react-native-duckdb](https://github.com/pranshuchittora/react-native-duckdb) - The analytical database for React Native. Run OLAP queries, full-text search, and vector similarity search on iOS and Android with native C++ performance.
 
 ### Backend
 
