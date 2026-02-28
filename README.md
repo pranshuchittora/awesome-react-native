@@ -1291,6 +1291,7 @@ Useful React Native tooling.
 * [react-hook-hooker](https://github.com/fjcaetano/react-hook-hooker) - A nifty little HOC to add hooks to your React components.
 * [React Native Elements Playground 🚀](https://react-native-elements.js.org/) - Tinker with `react-native-elements` components in the web.
 * [SimpleLocalize CLI](https://github.com/simplelocalize/simplelocalize-cli) - An open source Localization CLI tool for finding i18n keys in project files.
+* [simvyn ★15](https://github.com/pranshuchittora/simvyn) - Universal mobile devtool — control iOS Simulators and Android Emulators from a single dashboard and CLI.
 
 ## Seeds
 
